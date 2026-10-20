@@ -6,3 +6,6 @@ print(b)
 
 c= "third"
 print(c)
+
+d= "siva"
+print(d)
