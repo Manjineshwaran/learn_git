@@ -3,3 +3,6 @@ print(a)
 
 b= "second"
 print(b)
+
+c= "third"
+print(c)
